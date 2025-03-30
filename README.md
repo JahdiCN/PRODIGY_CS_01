@@ -20,6 +20,13 @@ This is a Python implementation of the Caesar Cipher, a simple encryption techni
 ### Prerequisites
 - Python 3.x must be installed on your system.
 
+## Steps
+- Clone this repository or download the caesar_cipher.py file.
+- Navigate to the folder containing the script.
+- Run the script using the command:
+  ```sh
+  python caesar_cipher.py
+
 ## Usage
 - Run the program in a terminal or command prompt.
 - Enter the message you want to encrypt or decrypt.
@@ -44,4 +51,7 @@ Encrypted Message: Khoor Zruog!
 - This project is open-source and available under the MIT License.
 
 ## Author
-- Your Name (Replace this with your actual name or GitHub username).
+:bust_in_silhouette: **Tochukwu Njoku-Chukwudi**  
+:link: [LinkedIn](www.linkedin.com/in/tochukwu-njoku-chukwudi-ab4761351)  
+
+
